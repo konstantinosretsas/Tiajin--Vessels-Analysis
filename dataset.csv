@@ -1,0 +1,1060 @@
+Date,IMO,VesselClassID,VesselClass,PortLevel0Area,ActivityID,Activity,PurposeID,Purpose,CargoTypeID,CargoName
+01/08/2023,9220201,70,Capesize,24666,1,Waiting,5,Discharge,22,Bauxite
+01/08/2023,9331543,74,Panamax,24666,1,Waiting,5,Discharge,36,Wheat
+01/08/2023,9374052,70,Capesize,24666,2,Operating,5,Discharge,5264,Manganese Ore
+01/08/2023,9423360,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+01/08/2023,9465796,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+01/08/2023,9476941,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+01/08/2023,9515228,74,Panamax,24666,2,Operating,10,Load,21,Barley
+01/08/2023,9567180,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+01/08/2023,9567740,74,Panamax,24666,1,Waiting,10,Load,5296,Steel Products
+01/08/2023,9592707,74,Panamax,24666,2,Operating,10,Load,5407,Steel Billets
+01/08/2023,9600437,70,Capesize,24666,NULL,NULL,12,Stop,5258,Iron Ore Fines
+01/08/2023,9636606,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+01/08/2023,9689847,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+01/08/2023,9718222,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+01/08/2023,9796195,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+01/08/2023,9837016,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+01/08/2023,9845269,74,Panamax,24666,2,Operating,5,Discharge,5257,Metallurgical Coal
+01/08/2023,9847401,74,Panamax,24666,2,Operating,5,Discharge,26,Corn
+01/08/2023,9883845,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+01/08/2023,9939371,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+01/08/2023,9939979,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+02/08/2023,9331543,74,Panamax,24666,1,Waiting,5,Discharge,36,Wheat
+02/08/2023,9374052,70,Capesize,24666,2,Operating,5,Discharge,5264,Manganese Ore
+02/08/2023,9423360,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+02/08/2023,9476941,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+02/08/2023,9515228,74,Panamax,24666,2,Operating,10,Load,21,Barley
+02/08/2023,9536155,70,Capesize,24666,NULL,NULL,12,Stop,5258,Iron Ore Fines
+02/08/2023,9546813,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+02/08/2023,9567180,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+02/08/2023,9567740,74,Panamax,24666,1,Waiting,10,Load,5296,Steel Products
+02/08/2023,9582532,74,Panamax,24666,1,Waiting,10,Load,NULL,NULL
+02/08/2023,9592707,74,Panamax,24666,2,Operating,10,Load,5407,Steel Billets
+02/08/2023,9600437,70,Capesize,24666,NULL,NULL,12,Stop,5258,Iron Ore Fines
+02/08/2023,9632234,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+02/08/2023,9689847,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+02/08/2023,9718222,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+02/08/2023,9726528,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+02/08/2023,9752383,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+02/08/2023,9796195,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+02/08/2023,9837016,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+02/08/2023,9855654,74,Panamax,24666,2,Operating,5,Discharge,5264,Manganese Ore
+02/08/2023,9883845,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+02/08/2023,9939371,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+02/08/2023,9939979,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+03/08/2023,9036806,74,Panamax,24666,NULL,NULL,12,Stop,NULL,NULL
+03/08/2023,9208514,74,Panamax,24666,2,Operating,10,Load,NULL,NULL
+03/08/2023,9331543,74,Panamax,24666,1,Waiting,5,Discharge,36,Wheat
+03/08/2023,9423360,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+03/08/2023,9476941,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+03/08/2023,9515228,74,Panamax,24666,2,Operating,10,Load,21,Barley
+03/08/2023,9536155,70,Capesize,24666,NULL,NULL,12,Stop,5258,Iron Ore Fines
+03/08/2023,9546813,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+03/08/2023,9567180,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+03/08/2023,9567740,74,Panamax,24666,1,Waiting,10,Load,5296,Steel Products
+03/08/2023,9582532,74,Panamax,24666,1,Waiting,10,Load,25,Coke
+03/08/2023,9600437,70,Capesize,24666,NULL,NULL,12,Stop,5258,Iron Ore Fines
+03/08/2023,9632234,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+03/08/2023,9643506,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+03/08/2023,9675937,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+03/08/2023,9689847,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+03/08/2023,9718222,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+03/08/2023,9726528,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+03/08/2023,9752383,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+03/08/2023,9796195,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+03/08/2023,9837016,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+03/08/2023,9855654,74,Panamax,24666,2,Operating,5,Discharge,5264,Manganese Ore
+03/08/2023,9883845,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+03/08/2023,9939979,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+04/08/2023,9036806,74,Panamax,24666,NULL,NULL,12,Stop,NULL,NULL
+04/08/2023,9171278,74,Panamax,24666,1,Waiting,10,Load,NULL,NULL
+04/08/2023,9208514,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+04/08/2023,9331543,74,Panamax,24666,1,Waiting,5,Discharge,36,Wheat
+04/08/2023,9423360,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+04/08/2023,9476941,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+04/08/2023,9492347,70,Capesize,24666,NULL,NULL,12,Stop,5258,Iron Ore Fines
+04/08/2023,9515228,74,Panamax,24666,2,Operating,10,Load,21,Barley
+04/08/2023,9567180,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+04/08/2023,9567740,74,Panamax,24666,2,Operating,10,Load,5296,Steel Products
+04/08/2023,9582532,74,Panamax,24666,1,Waiting,10,Load,25,Coke
+04/08/2023,9632234,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+04/08/2023,9643506,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+04/08/2023,9675937,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+04/08/2023,9689847,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+04/08/2023,9718222,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+04/08/2023,9726528,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+04/08/2023,9752383,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+04/08/2023,9796195,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+04/08/2023,9837016,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+04/08/2023,9855654,74,Panamax,24666,2,Operating,5,Discharge,NULL,NULL
+05/08/2023,9036806,74,Panamax,24666,NULL,NULL,12,Stop,NULL,NULL
+05/08/2023,9171278,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+05/08/2023,9331543,74,Panamax,24666,2,Operating,5,Discharge,36,Wheat
+05/08/2023,9423360,74,Panamax,24666,2,Operating,5,Discharge,NULL,NULL
+05/08/2023,9476941,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+05/08/2023,9492347,70,Capesize,24666,NULL,NULL,12,Stop,5258,Iron Ore Fines
+05/08/2023,9515228,74,Panamax,24666,2,Operating,10,Load,21,Barley
+05/08/2023,9567740,74,Panamax,24666,2,Operating,10,Load,5296,Steel Products
+05/08/2023,9582532,74,Panamax,24666,2,Operating,10,Load,25,Coke
+05/08/2023,9632234,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+05/08/2023,9643506,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+05/08/2023,9675937,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+05/08/2023,9718222,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+05/08/2023,9726528,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+05/08/2023,9752383,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+05/08/2023,9796195,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+05/08/2023,9837016,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+06/08/2023,9036806,74,Panamax,24666,NULL,NULL,12,Stop,NULL,NULL
+06/08/2023,9171278,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+06/08/2023,9331543,74,Panamax,24666,2,Operating,5,Discharge,36,Wheat
+06/08/2023,9420588,70,Capesize,24666,NULL,NULL,12,Stop,5258,Iron Ore Fines
+06/08/2023,9450868,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+06/08/2023,9476941,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+06/08/2023,9492347,70,Capesize,24666,NULL,NULL,12,Stop,5258,Iron Ore Fines
+06/08/2023,9515228,74,Panamax,24666,2,Operating,10,Load,21,Barley
+06/08/2023,9567740,74,Panamax,24666,2,Operating,10,Load,5296,Steel Products
+06/08/2023,9582532,74,Panamax,24666,2,Operating,10,Load,25,Coke
+06/08/2023,9632234,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+06/08/2023,9643506,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+06/08/2023,9675937,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+06/08/2023,9718222,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+06/08/2023,9726528,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+06/08/2023,9743162,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+06/08/2023,9796195,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+06/08/2023,9837016,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+07/08/2023,9036806,74,Panamax,24666,NULL,NULL,12,Stop,NULL,NULL
+07/08/2023,9159036,74,Panamax,24666,1,Waiting,10,Load,NULL,NULL
+07/08/2023,9171278,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+07/08/2023,9331543,74,Panamax,24666,2,Operating,5,Discharge,36,Wheat
+07/08/2023,9420588,70,Capesize,24666,NULL,NULL,12,Stop,5258,Iron Ore Fines
+07/08/2023,9450868,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+07/08/2023,9476941,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+07/08/2023,9507908,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+07/08/2023,9567740,74,Panamax,24666,2,Operating,10,Load,5296,Steel Products
+07/08/2023,9643506,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+07/08/2023,9726528,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+07/08/2023,9743162,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+07/08/2023,9796195,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+07/08/2023,9837016,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+08/08/2023,9036806,74,Panamax,24666,NULL,NULL,12,Stop,NULL,NULL
+08/08/2023,9159036,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+08/08/2023,9171278,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+08/08/2023,9175327,74,Panamax,24666,1,Waiting,10,Load,NULL,NULL
+08/08/2023,9331543,74,Panamax,24666,2,Operating,5,Discharge,36,Wheat
+08/08/2023,9450868,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+08/08/2023,9476941,74,Panamax,24666,NULL,NULL,12,Stop,NULL,NULL
+08/08/2023,9507908,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+08/08/2023,9567740,74,Panamax,24666,2,Operating,10,Load,5296,Steel Products
+08/08/2023,9575668,70,Capesize,24666,2,Operating,5,Discharge,5264,Manganese Ore
+08/08/2023,9593749,74,Panamax,24666,2,Operating,5,Discharge,21,Barley
+08/08/2023,9643506,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+08/08/2023,9726528,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+08/08/2023,9743162,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+08/08/2023,9796195,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+09/08/2023,9036806,74,Panamax,24666,NULL,NULL,12,Stop,NULL,NULL
+09/08/2023,9159036,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+09/08/2023,9175327,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+09/08/2023,9450868,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+09/08/2023,9468188,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+09/08/2023,9476941,74,Panamax,24666,NULL,NULL,12,Stop,NULL,NULL
+09/08/2023,9507908,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+09/08/2023,9567740,74,Panamax,24666,2,Operating,10,Load,5296,Steel Products
+09/08/2023,9575668,70,Capesize,24666,2,Operating,5,Discharge,5264,Manganese Ore
+09/08/2023,9593749,74,Panamax,24666,2,Operating,5,Discharge,21,Barley
+09/08/2023,9612985,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+09/08/2023,9643506,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+09/08/2023,9646845,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+09/08/2023,9726528,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+09/08/2023,9796195,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+09/08/2023,9844540,70,Capesize,24666,NULL,NULL,12,Stop,5258,Iron Ore Fines
+10/08/2023,9036806,74,Panamax,24666,NULL,NULL,12,Stop,NULL,NULL
+10/08/2023,9175327,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+10/08/2023,9468188,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+10/08/2023,9476941,74,Panamax,24666,2,Operating,10,Load,NULL,NULL
+10/08/2023,9507908,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+10/08/2023,9567740,74,Panamax,24666,2,Operating,10,Load,5296,Steel Products
+10/08/2023,9575668,70,Capesize,24666,2,Operating,5,Discharge,5264,Manganese Ore
+10/08/2023,9593749,74,Panamax,24666,2,Operating,5,Discharge,21,Barley
+10/08/2023,9612985,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+10/08/2023,9646845,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+10/08/2023,9726528,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+10/08/2023,9738832,70,Capesize,24666,1,Waiting,5,Discharge,5259,Iron Ore Lumps
+10/08/2023,9796195,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+10/08/2023,9921453,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+11/08/2023,9036806,74,Panamax,24666,NULL,NULL,12,Stop,NULL,NULL
+11/08/2023,9468188,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+11/08/2023,9476941,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+11/08/2023,9507908,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+11/08/2023,9568005,70,Capesize,24666,NULL,NULL,12,Stop,5258,Iron Ore Fines
+11/08/2023,9575668,70,Capesize,24666,2,Operating,5,Discharge,NULL,NULL
+11/08/2023,9593749,74,Panamax,24666,2,Operating,5,Discharge,21,Barley
+11/08/2023,9601091,74,Panamax,24666,1,Waiting,10,Load,34,Sulphur
+11/08/2023,9612985,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+11/08/2023,9646845,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+11/08/2023,9726528,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+11/08/2023,9738832,70,Capesize,24666,2,Operating,5,Discharge,5259,Iron Ore Lumps
+11/08/2023,9796195,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+11/08/2023,9921453,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+12/08/2023,9036806,74,Panamax,24666,NULL,NULL,12,Stop,NULL,NULL
+12/08/2023,9374064,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+12/08/2023,9468188,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+12/08/2023,9476941,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+12/08/2023,9497359,70,Capesize,24666,NULL,NULL,12,Stop,5258,Iron Ore Fines
+12/08/2023,9601091,74,Panamax,24666,1,Waiting,10,Load,34,Sulphur
+12/08/2023,9612985,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+12/08/2023,9646845,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+12/08/2023,9726528,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+12/08/2023,9729740,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+12/08/2023,9738832,70,Capesize,24666,2,Operating,5,Discharge,5259,Iron Ore Lumps
+12/08/2023,9796195,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+12/08/2023,9921453,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+13/08/2023,9036806,74,Panamax,24666,NULL,NULL,12,Stop,NULL,NULL
+13/08/2023,9374064,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+13/08/2023,9468188,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+13/08/2023,9601091,74,Panamax,24666,1,Waiting,10,Load,34,Sulphur
+13/08/2023,9612985,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+13/08/2023,9646845,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+13/08/2023,9671931,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+13/08/2023,9717345,74,Panamax,24666,2,Operating,5,Discharge,5264,Manganese Ore
+13/08/2023,9726528,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+13/08/2023,9729740,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+13/08/2023,9738832,70,Capesize,24666,2,Operating,5,Discharge,NULL,NULL
+13/08/2023,9796195,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+13/08/2023,9921453,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+14/08/2023,9036806,74,Panamax,24666,NULL,NULL,12,Stop,NULL,NULL
+14/08/2023,9254111,74,Panamax,24666,NULL,NULL,12,Stop,NULL,NULL
+14/08/2023,9374064,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+14/08/2023,9468188,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+14/08/2023,9474670,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+14/08/2023,9601091,74,Panamax,24666,1,Waiting,10,Load,34,Sulphur
+14/08/2023,9612985,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+14/08/2023,9646845,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+14/08/2023,9671931,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+14/08/2023,9717345,74,Panamax,24666,2,Operating,5,Discharge,5264,Manganese Ore
+14/08/2023,9726528,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+14/08/2023,9729740,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+14/08/2023,9796195,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+14/08/2023,9863431,74,Panamax,24666,2,Operating,10,Load,NULL,NULL
+14/08/2023,9900772,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+14/08/2023,9921453,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+15/08/2023,9036806,74,Panamax,24666,NULL,NULL,12,Stop,NULL,NULL
+15/08/2023,9254111,74,Panamax,24666,NULL,NULL,12,Stop,NULL,NULL
+15/08/2023,9273818,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+15/08/2023,9374064,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+15/08/2023,9406893,70,Capesize,24666,1,Waiting,5,Discharge,5264,Manganese Ore
+15/08/2023,9454565,70,Capesize,24666,1,Waiting,5,Discharge,5257,Metallurgical Coal
+15/08/2023,9468188,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+15/08/2023,9474670,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+15/08/2023,9601091,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+15/08/2023,9646845,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+15/08/2023,9671931,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+15/08/2023,9726528,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+15/08/2023,9729740,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+15/08/2023,9796195,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+15/08/2023,9836490,74,Panamax,24666,1,Waiting,10,Load,NULL,NULL
+15/08/2023,9863431,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+15/08/2023,9867231,74,Panamax,24666,1,Waiting,10,Load,NULL,NULL
+15/08/2023,9900772,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+15/08/2023,9921453,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+16/08/2023,9254111,74,Panamax,24666,NULL,NULL,12,Stop,NULL,NULL
+16/08/2023,9273818,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+16/08/2023,9374064,70,Capesize,24666,2,Operating,5,Discharge,NULL,NULL
+16/08/2023,9406893,70,Capesize,24666,1,Waiting,5,Discharge,5264,Manganese Ore
+16/08/2023,9454565,70,Capesize,24666,1,Waiting,5,Discharge,5257,Metallurgical Coal
+16/08/2023,9468188,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+16/08/2023,9546980,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+16/08/2023,9567192,74,Panamax,24666,1,Waiting,10,Load,NULL,NULL
+16/08/2023,9601091,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+16/08/2023,9636589,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+16/08/2023,9636618,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+16/08/2023,9646845,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+16/08/2023,9671931,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+16/08/2023,9698989,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+16/08/2023,9726528,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+16/08/2023,9729740,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+16/08/2023,9796195,74,Panamax,24666,NULL,NULL,12,Stop,NULL,NULL
+16/08/2023,9836490,74,Panamax,24666,1,Waiting,10,Load,34,Sulphur
+16/08/2023,9867231,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+16/08/2023,9900772,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+16/08/2023,9921453,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+17/08/2023,9235878,74,Panamax,24666,1,Waiting,10,Load,NULL,NULL
+17/08/2023,9254111,74,Panamax,24666,NULL,NULL,12,Stop,NULL,NULL
+17/08/2023,9273818,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+17/08/2023,9406893,70,Capesize,24666,2,Operating,5,Discharge,5264,Manganese Ore
+17/08/2023,9454565,70,Capesize,24666,1,Waiting,5,Discharge,5257,Metallurgical Coal
+17/08/2023,9546980,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+17/08/2023,9567192,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+17/08/2023,9601091,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+17/08/2023,9636589,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+17/08/2023,9636606,74,Panamax,24666,1,Waiting,10,Load,NULL,NULL
+17/08/2023,9636618,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+17/08/2023,9671931,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+17/08/2023,9698989,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+17/08/2023,9726528,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+17/08/2023,9796195,74,Panamax,24666,NULL,NULL,12,Stop,NULL,NULL
+17/08/2023,9836490,74,Panamax,24666,1,Waiting,10,Load,34,Sulphur
+17/08/2023,9867231,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+17/08/2023,9921453,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+18/08/2023,9235878,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+18/08/2023,9254111,74,Panamax,24666,NULL,NULL,12,Stop,NULL,NULL
+18/08/2023,9273818,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+18/08/2023,9406893,70,Capesize,24666,2,Operating,5,Discharge,5264,Manganese Ore
+18/08/2023,9444819,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+18/08/2023,9482251,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+18/08/2023,9567192,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+18/08/2023,9601091,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+18/08/2023,9636606,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+18/08/2023,9671931,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+18/08/2023,9698989,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+18/08/2023,9726528,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+18/08/2023,9796195,74,Panamax,24666,NULL,NULL,12,Stop,NULL,NULL
+18/08/2023,9836490,74,Panamax,24666,1,Waiting,10,Load,34,Sulphur
+18/08/2023,9867231,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+18/08/2023,9921453,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+19/08/2023,9172545,74,Panamax,24666,1,Waiting,10,Load,NULL,NULL
+19/08/2023,9235878,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+19/08/2023,9254111,74,Panamax,24666,NULL,NULL,12,Stop,NULL,NULL
+19/08/2023,9273818,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+19/08/2023,9420590,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+19/08/2023,9444819,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+19/08/2023,9482251,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+19/08/2023,9494113,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+19/08/2023,9567192,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+19/08/2023,9601091,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+19/08/2023,9605322,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+19/08/2023,9636606,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+19/08/2023,9698989,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+19/08/2023,9726528,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+19/08/2023,9796195,74,Panamax,24666,2,Operating,10,Load,NULL,NULL
+19/08/2023,9836490,74,Panamax,24666,1,Waiting,10,Load,34,Sulphur
+20/08/2023,9172545,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+20/08/2023,9235878,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+20/08/2023,9254111,74,Panamax,24666,NULL,NULL,12,Stop,NULL,NULL
+20/08/2023,9273818,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+20/08/2023,9420590,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+20/08/2023,9444819,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+20/08/2023,9482251,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+20/08/2023,9494113,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+20/08/2023,9558086,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+20/08/2023,9605322,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+20/08/2023,9621144,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+20/08/2023,9636606,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+20/08/2023,9726528,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+20/08/2023,9796195,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+20/08/2023,9836490,74,Panamax,24666,1,Waiting,10,Load,34,Sulphur
+20/08/2023,9956185,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+21/08/2023,9159036,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+21/08/2023,9172545,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+21/08/2023,9235878,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+21/08/2023,9254111,74,Panamax,24666,NULL,NULL,12,Stop,NULL,NULL
+21/08/2023,9273818,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+21/08/2023,9420590,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+21/08/2023,9444819,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+21/08/2023,9494113,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+21/08/2023,9558086,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+21/08/2023,9605322,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+21/08/2023,9621144,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+21/08/2023,9726528,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+21/08/2023,9796195,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+21/08/2023,9836490,74,Panamax,24666,1,Waiting,10,Load,34,Sulphur
+21/08/2023,9940332,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+21/08/2023,9956185,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+22/08/2023,9159036,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+22/08/2023,9172545,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+22/08/2023,9254111,74,Panamax,24666,NULL,NULL,12,Stop,NULL,NULL
+22/08/2023,9273818,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+22/08/2023,9385477,74,Panamax,24666,1,Waiting,10,Load,5349,Ammonium
+22/08/2023,9420590,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+22/08/2023,9494113,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+22/08/2023,9558086,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+22/08/2023,9597056,74,Panamax,24666,1,Waiting,10,Load,NULL,NULL
+22/08/2023,9605322,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+22/08/2023,9620322,74,Panamax,24666,1,Waiting,10,Load,NULL,NULL
+22/08/2023,9621144,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+22/08/2023,9726528,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+22/08/2023,9796195,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+22/08/2023,9836490,74,Panamax,24666,1,Waiting,10,Load,34,Sulphur
+22/08/2023,9940332,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+22/08/2023,9956185,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+23/08/2023,9159036,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+23/08/2023,9172545,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+23/08/2023,9254111,74,Panamax,24666,NULL,NULL,12,Stop,NULL,NULL
+23/08/2023,9273818,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+23/08/2023,9374026,70,Capesize,24666,1,Waiting,5,Discharge,5264,Manganese Ore
+23/08/2023,9385477,74,Panamax,24666,2,Operating,10,Load,5349,Ammonium
+23/08/2023,9420590,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+23/08/2023,9494113,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+23/08/2023,9597056,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+23/08/2023,9605322,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+23/08/2023,9620322,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+23/08/2023,9621144,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+23/08/2023,9726528,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+23/08/2023,9796195,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+23/08/2023,9836490,74,Panamax,24666,1,Waiting,10,Load,34,Sulphur
+23/08/2023,9940332,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+23/08/2023,9943827,70,Capesize,24666,2,Operating,5,Discharge,5259,Iron Ore Lumps
+23/08/2023,9956185,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+24/08/2023,9159036,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+24/08/2023,9253985,74,Panamax,24666,1,Waiting,10,Load,NULL,NULL
+24/08/2023,9254111,74,Panamax,24666,NULL,NULL,12,Stop,NULL,NULL
+24/08/2023,9273818,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+24/08/2023,9279800,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+24/08/2023,9345764,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+24/08/2023,9374026,70,Capesize,24666,2,Operating,5,Discharge,5264,Manganese Ore
+24/08/2023,9385477,74,Panamax,24666,2,Operating,10,Load,5349,Ammonium
+24/08/2023,9494113,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+24/08/2023,9494371,74,Panamax,24666,1,Waiting,5,Discharge,36,Wheat
+24/08/2023,9597056,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+24/08/2023,9620322,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+24/08/2023,9621144,70,Capesize,24666,2,Operating,5,Discharge,NULL,NULL
+24/08/2023,9642502,74,Panamax,24666,1,Waiting,10,Load,5407,Steel Billets
+24/08/2023,9693771,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+24/08/2023,9726528,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+24/08/2023,9796195,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+24/08/2023,9836490,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+24/08/2023,9939008,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+24/08/2023,9940332,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+24/08/2023,9943827,70,Capesize,24666,2,Operating,5,Discharge,NULL,NULL
+24/08/2023,9956185,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+25/08/2023,9159036,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+25/08/2023,9253985,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+25/08/2023,9254111,74,Panamax,24666,NULL,NULL,12,Stop,NULL,NULL
+25/08/2023,9273818,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+25/08/2023,9279800,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+25/08/2023,9345764,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+25/08/2023,9355159,70,Capesize,24666,1,Waiting,5,Discharge,22,Bauxite
+25/08/2023,9374026,70,Capesize,24666,2,Operating,5,Discharge,5264,Manganese Ore
+25/08/2023,9385477,74,Panamax,24666,2,Operating,10,Load,5349,Ammonium
+25/08/2023,9472282,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+25/08/2023,9482940,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+25/08/2023,9494371,74,Panamax,24666,1,Waiting,5,Discharge,36,Wheat
+25/08/2023,9583213,74,Panamax,24666,2,Operating,5,Discharge,5264,Manganese Ore
+25/08/2023,9597056,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+25/08/2023,9620322,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+25/08/2023,9642502,74,Panamax,24666,1,Waiting,10,Load,5407,Steel Billets
+25/08/2023,9693771,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+25/08/2023,9726528,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+25/08/2023,9796195,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+25/08/2023,9836490,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+25/08/2023,9938793,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+25/08/2023,9939008,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+25/08/2023,9956185,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+26/08/2023,9140542,74,Panamax,24666,1,Waiting,10,Load,NULL,NULL
+26/08/2023,9159036,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+26/08/2023,9253985,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+26/08/2023,9254111,74,Panamax,24666,NULL,NULL,12,Stop,NULL,NULL
+26/08/2023,9268473,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+26/08/2023,9273818,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+26/08/2023,9279800,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+26/08/2023,9345764,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+26/08/2023,9350800,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+26/08/2023,9355159,70,Capesize,24666,2,Operating,5,Discharge,22,Bauxite
+26/08/2023,9374026,70,Capesize,24666,2,Operating,5,Discharge,5264,Manganese Ore
+26/08/2023,9385477,74,Panamax,24666,2,Operating,10,Load,5349,Ammonium
+26/08/2023,9434395,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+26/08/2023,9472282,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+26/08/2023,9482940,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+26/08/2023,9494371,74,Panamax,24666,1,Waiting,5,Discharge,36,Wheat
+26/08/2023,9583213,74,Panamax,24666,2,Operating,5,Discharge,5264,Manganese Ore
+26/08/2023,9590890,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+26/08/2023,9597056,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+26/08/2023,9642502,74,Panamax,24666,1,Waiting,10,Load,5407,Steel Billets
+26/08/2023,9693771,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+26/08/2023,9726528,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+26/08/2023,9796195,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+26/08/2023,9836490,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+26/08/2023,9861225,74,Panamax,24666,1,Waiting,10,Load,NULL,NULL
+26/08/2023,9867231,74,Panamax,24666,1,Waiting,10,Load,NULL,NULL
+26/08/2023,9938793,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+26/08/2023,9939008,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+26/08/2023,9956185,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+27/08/2023,9140542,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+27/08/2023,9159036,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+27/08/2023,9268473,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+27/08/2023,9273818,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+27/08/2023,9279800,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+27/08/2023,9350800,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+27/08/2023,9355159,70,Capesize,24666,2,Operating,5,Discharge,22,Bauxite
+27/08/2023,9434395,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+27/08/2023,9472282,70,Capesize,24666,2,Operating,5,Discharge,NULL,NULL
+27/08/2023,9482940,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+27/08/2023,9494371,74,Panamax,24666,2,Operating,5,Discharge,36,Wheat
+27/08/2023,9583213,74,Panamax,24666,2,Operating,5,Discharge,5264,Manganese Ore
+27/08/2023,9590890,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+27/08/2023,9597056,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+27/08/2023,9642502,74,Panamax,24666,2,Operating,10,Load,5407,Steel Billets
+27/08/2023,9693771,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+27/08/2023,9726528,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+27/08/2023,9836490,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+27/08/2023,9861225,74,Panamax,24666,1,Waiting,10,Load,41,Phosphate
+27/08/2023,9867231,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+27/08/2023,9938793,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+27/08/2023,9939008,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+27/08/2023,9956185,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+28/08/2023,9140542,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+28/08/2023,9268473,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+28/08/2023,9273818,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+28/08/2023,9279800,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+28/08/2023,9295189,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+28/08/2023,9350800,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+28/08/2023,9355159,70,Capesize,24666,2,Operating,5,Discharge,22,Bauxite
+28/08/2023,9434395,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+28/08/2023,9494371,74,Panamax,24666,2,Operating,5,Discharge,36,Wheat
+28/08/2023,9590890,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+28/08/2023,9591545,74,Panamax,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+28/08/2023,9597056,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+28/08/2023,9642502,74,Panamax,24666,2,Operating,10,Load,5407,Steel Billets
+28/08/2023,9693771,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+28/08/2023,9726528,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+28/08/2023,9836490,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+28/08/2023,9845257,74,Panamax,24666,2,Operating,10,Load,5407,Steel Billets
+28/08/2023,9861225,74,Panamax,24666,1,Waiting,10,Load,41,Phosphate
+28/08/2023,9867231,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+28/08/2023,9938561,70,Capesize,24666,NULL,NULL,12,Stop,5258,Iron Ore Fines
+28/08/2023,9938793,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+28/08/2023,9939008,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+28/08/2023,9956185,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+29/08/2023,9140542,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+29/08/2023,9273818,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+29/08/2023,9279800,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+29/08/2023,9295189,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+29/08/2023,9355159,70,Capesize,24666,2,Operating,5,Discharge,22,Bauxite
+29/08/2023,9434395,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+29/08/2023,9494371,74,Panamax,24666,2,Operating,5,Discharge,36,Wheat
+29/08/2023,9590890,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+29/08/2023,9591545,74,Panamax,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+29/08/2023,9642502,74,Panamax,24666,2,Operating,10,Load,5407,Steel Billets
+29/08/2023,9693771,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+29/08/2023,9726528,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+29/08/2023,9836490,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+29/08/2023,9845257,74,Panamax,24666,2,Operating,10,Load,5407,Steel Billets
+29/08/2023,9861225,74,Panamax,24666,1,Waiting,10,Load,41,Phosphate
+29/08/2023,9867231,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+29/08/2023,9938793,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+29/08/2023,9956185,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+30/08/2023,9085948,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+30/08/2023,9140542,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+30/08/2023,9273818,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+30/08/2023,9279800,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+30/08/2023,9295189,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+30/08/2023,9355159,70,Capesize,24666,2,Operating,5,Discharge,NULL,NULL
+30/08/2023,9494371,74,Panamax,24666,2,Operating,5,Discharge,36,Wheat
+30/08/2023,9590890,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+30/08/2023,9591545,74,Panamax,24666,NULL,NULL,12,Stop,NULL,NULL
+30/08/2023,9607083,74,Panamax,24666,2,Operating,5,Discharge,5623,Equipment
+30/08/2023,9693771,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+30/08/2023,9750933,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+30/08/2023,9845257,74,Panamax,24666,2,Operating,10,Load,5407,Steel Billets
+30/08/2023,9861225,74,Panamax,24666,1,Waiting,10,Load,41,Phosphate
+30/08/2023,9938793,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+30/08/2023,9950894,74,Panamax,24666,2,Operating,10,Load,NULL,NULL
+30/08/2023,9956185,74,Panamax,24666,NULL,NULL,12,Stop,NULL,NULL
+31/08/2023,9085948,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+31/08/2023,9140542,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+31/08/2023,9208514,74,Panamax,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+31/08/2023,9273818,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+31/08/2023,9279800,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+31/08/2023,9567192,74,Panamax,24666,2,Operating,10,Load,NULL,NULL
+31/08/2023,9590890,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+31/08/2023,9607083,74,Panamax,24666,2,Operating,5,Discharge,5623,Equipment
+31/08/2023,9654763,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+31/08/2023,9693771,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+31/08/2023,9750933,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+31/08/2023,9845257,74,Panamax,24666,2,Operating,10,Load,5407,Steel Billets
+31/08/2023,9861225,74,Panamax,24666,1,Waiting,10,Load,41,Phosphate
+31/08/2023,9938793,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+31/08/2023,9950894,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+31/08/2023,9956185,74,Panamax,24666,NULL,NULL,12,Stop,NULL,NULL
+01/09/2023,9085948,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+01/09/2023,9208514,74,Panamax,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+01/09/2023,9273818,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+01/09/2023,9278545,70,Capesize,24666,2,Operating,5,Discharge,22,Bauxite
+01/09/2023,9279800,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+01/09/2023,9410167,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+01/09/2023,9427304,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+01/09/2023,9567192,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+01/09/2023,9594925,74,Panamax,24666,2,Operating,5,Discharge,5264,Manganese Ore
+01/09/2023,9607083,74,Panamax,24666,2,Operating,5,Discharge,5623,Equipment
+01/09/2023,9654763,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+01/09/2023,9693771,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+01/09/2023,9750933,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+01/09/2023,9845257,74,Panamax,24666,2,Operating,10,Load,5407,Steel Billets
+01/09/2023,9847982,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+01/09/2023,9861225,74,Panamax,24666,1,Waiting,10,Load,41,Phosphate
+01/09/2023,9877913,74,Panamax,24666,2,Operating,5,Discharge,5264,Manganese Ore
+01/09/2023,9938793,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+01/09/2023,9950894,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+02/09/2023,9208514,74,Panamax,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+02/09/2023,9273818,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+02/09/2023,9278545,70,Capesize,24666,2,Operating,5,Discharge,22,Bauxite
+02/09/2023,9279800,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+02/09/2023,9410167,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+02/09/2023,9427304,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+02/09/2023,9594925,74,Panamax,24666,2,Operating,5,Discharge,5264,Manganese Ore
+02/09/2023,9607083,74,Panamax,24666,2,Operating,5,Discharge,5623,Equipment
+02/09/2023,9636589,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+02/09/2023,9654763,70,Capesize,24666,2,Operating,5,Discharge,NULL,NULL
+02/09/2023,9693771,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+02/09/2023,9759991,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+02/09/2023,9847982,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+02/09/2023,9861225,74,Panamax,24666,1,Waiting,10,Load,41,Phosphate
+02/09/2023,9877913,74,Panamax,24666,2,Operating,5,Discharge,5264,Manganese Ore
+02/09/2023,9938793,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+02/09/2023,9950894,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+03/09/2023,9208514,74,Panamax,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+03/09/2023,9273818,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+03/09/2023,9278545,70,Capesize,24666,2,Operating,5,Discharge,22,Bauxite
+03/09/2023,9279800,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+03/09/2023,9399557,74,Panamax,24666,1,Waiting,10,Load,NULL,NULL
+03/09/2023,9410167,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+03/09/2023,9427304,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+03/09/2023,9594925,74,Panamax,24666,2,Operating,5,Discharge,5264,Manganese Ore
+03/09/2023,9607083,74,Panamax,24666,2,Operating,5,Discharge,5623,Equipment
+03/09/2023,9607148,74,Panamax,24666,1,Waiting,10,Load,NULL,NULL
+03/09/2023,9636589,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+03/09/2023,9693771,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+03/09/2023,9759991,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+03/09/2023,9841172,74,Panamax,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+03/09/2023,9847982,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+03/09/2023,9861225,74,Panamax,24666,1,Waiting,10,Load,41,Phosphate
+03/09/2023,9877913,74,Panamax,24666,2,Operating,5,Discharge,5264,Manganese Ore
+03/09/2023,9938793,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+03/09/2023,9950894,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+04/09/2023,9086954,74,Panamax,24666,1,Waiting,10,Load,NULL,NULL
+04/09/2023,9273818,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+04/09/2023,9278545,70,Capesize,24666,2,Operating,5,Discharge,22,Bauxite
+04/09/2023,9279800,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+04/09/2023,9331555,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+04/09/2023,9399557,74,Panamax,24666,1,Waiting,10,Load,35,Urea
+04/09/2023,9410167,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+04/09/2023,9427304,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+04/09/2023,9473315,74,Panamax,24666,1,Waiting,5,Discharge,26,Corn
+04/09/2023,9594925,74,Panamax,24666,NULL,NULL,12,Stop,NULL,NULL
+04/09/2023,9607148,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+04/09/2023,9636589,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+04/09/2023,9693771,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+04/09/2023,9759991,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+04/09/2023,9841172,74,Panamax,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+04/09/2023,9847982,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+04/09/2023,9861225,74,Panamax,24666,1,Waiting,10,Load,41,Phosphate
+04/09/2023,9938793,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+04/09/2023,9950894,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+05/09/2023,9086954,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+05/09/2023,9273818,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+05/09/2023,9279800,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+05/09/2023,9331555,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+05/09/2023,9399557,74,Panamax,24666,1,Waiting,10,Load,35,Urea
+05/09/2023,9443920,74,Panamax,24666,2,Operating,10,Load,NULL,NULL
+05/09/2023,9461192,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+05/09/2023,9473315,74,Panamax,24666,1,Waiting,5,Discharge,26,Corn
+05/09/2023,9607148,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+05/09/2023,9693771,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+05/09/2023,9738143,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+05/09/2023,9759991,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+05/09/2023,9841172,74,Panamax,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+05/09/2023,9847982,70,Capesize,24666,1,Waiting,5,Discharge,NULL,NULL
+05/09/2023,9861225,74,Panamax,24666,1,Waiting,10,Load,41,Phosphate
+05/09/2023,9938793,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+05/09/2023,9950894,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+06/09/2023,9086954,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+06/09/2023,9189093,74,Panamax,24666,2,Operating,10,Load,NULL,NULL
+06/09/2023,9273818,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+06/09/2023,9279800,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+06/09/2023,9325025,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+06/09/2023,9331555,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+06/09/2023,9399557,74,Panamax,24666,1,Waiting,10,Load,35,Urea
+06/09/2023,9443920,74,Panamax,24666,2,Operating,10,Load,5407,Steel Billets
+06/09/2023,9446623,70,Capesize,24666,1,Waiting,5,Discharge,5264,Manganese Ore
+06/09/2023,9461192,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+06/09/2023,9473315,74,Panamax,24666,2,Operating,5,Discharge,26,Corn
+06/09/2023,9607148,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+06/09/2023,9693771,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+06/09/2023,9738143,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+06/09/2023,9841172,74,Panamax,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+06/09/2023,9861225,74,Panamax,24666,1,Waiting,10,Load,41,Phosphate
+06/09/2023,9938793,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+06/09/2023,9950894,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+07/09/2023,9086954,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+07/09/2023,9189093,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+07/09/2023,9325025,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+07/09/2023,9331555,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+07/09/2023,9399557,74,Panamax,24666,1,Waiting,10,Load,35,Urea
+07/09/2023,9443920,74,Panamax,24666,2,Operating,10,Load,5407,Steel Billets
+07/09/2023,9446623,70,Capesize,24666,2,Operating,5,Discharge,5264,Manganese Ore
+07/09/2023,9461192,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+07/09/2023,9473315,74,Panamax,24666,2,Operating,5,Discharge,26,Corn
+07/09/2023,9607148,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+07/09/2023,9693771,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+07/09/2023,9738143,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+07/09/2023,9841172,74,Panamax,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+07/09/2023,9861225,74,Panamax,24666,1,Waiting,10,Load,41,Phosphate
+07/09/2023,9938793,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+08/09/2023,9086954,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+08/09/2023,9325025,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+08/09/2023,9331555,70,Capesize,24666,1,Waiting,5,Discharge,NULL,NULL
+08/09/2023,9399557,74,Panamax,24666,1,Waiting,10,Load,35,Urea
+08/09/2023,9443920,74,Panamax,24666,2,Operating,10,Load,5407,Steel Billets
+08/09/2023,9446623,70,Capesize,24666,2,Operating,5,Discharge,5264,Manganese Ore
+08/09/2023,9461192,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+08/09/2023,9473315,74,Panamax,24666,2,Operating,5,Discharge,26,Corn
+08/09/2023,9693771,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+08/09/2023,9799721,74,Panamax,24666,2,Operating,5,Discharge,5264,Manganese Ore
+08/09/2023,9861225,74,Panamax,24666,1,Waiting,10,Load,41,Phosphate
+08/09/2023,9938793,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+08/09/2023,9948384,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+09/09/2023,9294111,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+09/09/2023,9308728,74,Panamax,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+09/09/2023,9399557,74,Panamax,24666,1,Waiting,10,Load,35,Urea
+09/09/2023,9443920,74,Panamax,24666,2,Operating,10,Load,5407,Steel Billets
+09/09/2023,9446623,70,Capesize,24666,2,Operating,5,Discharge,5264,Manganese Ore
+09/09/2023,9473315,74,Panamax,24666,2,Operating,5,Discharge,26,Corn
+09/09/2023,9574858,74,Panamax,24666,1,Waiting,10,Load,NULL,NULL
+09/09/2023,9693771,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+09/09/2023,9785354,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+09/09/2023,9799721,74,Panamax,24666,2,Operating,5,Discharge,5264,Manganese Ore
+09/09/2023,9861225,74,Panamax,24666,1,Waiting,10,Load,41,Phosphate
+09/09/2023,9938793,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+09/09/2023,9948384,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+10/09/2023,9294111,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+10/09/2023,9308728,74,Panamax,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+10/09/2023,9399557,74,Panamax,24666,1,Waiting,10,Load,35,Urea
+10/09/2023,9443920,74,Panamax,24666,2,Operating,10,Load,5407,Steel Billets
+10/09/2023,9473315,74,Panamax,24666,2,Operating,5,Discharge,NULL,NULL
+10/09/2023,9574858,74,Panamax,24666,1,Waiting,10,Load,5407,Steel Billets
+10/09/2023,9693771,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+10/09/2023,9785354,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+10/09/2023,9799721,74,Panamax,24666,2,Operating,5,Discharge,5264,Manganese Ore
+10/09/2023,9861225,74,Panamax,24666,1,Waiting,10,Load,41,Phosphate
+10/09/2023,9938793,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+10/09/2023,9948384,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+11/09/2023,9294111,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+11/09/2023,9399557,74,Panamax,24666,1,Waiting,10,Load,35,Urea
+11/09/2023,9443920,74,Panamax,24666,2,Operating,10,Load,5407,Steel Billets
+11/09/2023,9469625,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+11/09/2023,9473315,74,Panamax,24666,NULL,NULL,12,Stop,NULL,NULL
+11/09/2023,9574858,74,Panamax,24666,1,Waiting,10,Load,5407,Steel Billets
+11/09/2023,9619555,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+11/09/2023,9664873,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+11/09/2023,9693771,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+11/09/2023,9785354,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+11/09/2023,9861225,74,Panamax,24666,1,Waiting,10,Load,41,Phosphate
+11/09/2023,9938793,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+11/09/2023,9939345,70,Capesize,24666,NULL,NULL,12,Stop,5258,Iron Ore Fines
+11/09/2023,9948384,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+12/09/2023,9271389,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+12/09/2023,9294111,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+12/09/2023,9399557,74,Panamax,24666,1,Waiting,10,Load,35,Urea
+12/09/2023,9469625,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+12/09/2023,9473315,74,Panamax,24666,2,Operating,10,Load,NULL,NULL
+12/09/2023,9597056,74,Panamax,24666,1,Waiting,10,Load,NULL,NULL
+12/09/2023,9619555,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+12/09/2023,9636591,74,Panamax,24666,1,Waiting,10,Load,NULL,NULL
+12/09/2023,9664873,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+12/09/2023,9696747,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+12/09/2023,9785354,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+12/09/2023,9820879,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+12/09/2023,9861225,74,Panamax,24666,1,Waiting,10,Load,41,Phosphate
+12/09/2023,9938793,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+12/09/2023,9939345,70,Capesize,24666,NULL,NULL,12,Stop,5258,Iron Ore Fines
+13/09/2023,9271389,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+13/09/2023,9399557,74,Panamax,24666,1,Waiting,10,Load,35,Urea
+13/09/2023,9469625,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+13/09/2023,9473315,74,Panamax,24666,2,Operating,10,Load,35,Urea
+13/09/2023,9597056,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+13/09/2023,9619555,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+13/09/2023,9636591,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+13/09/2023,9664873,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+13/09/2023,9696747,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+13/09/2023,9785354,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+13/09/2023,9820879,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+13/09/2023,9861225,74,Panamax,24666,1,Waiting,10,Load,41,Phosphate
+13/09/2023,9938793,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+13/09/2023,9939345,70,Capesize,24666,NULL,NULL,12,Stop,5258,Iron Ore Fines
+14/09/2023,9303900,74,Panamax,24666,1,Waiting,10,Load,NULL,NULL
+14/09/2023,9399557,74,Panamax,24666,1,Waiting,10,Load,35,Urea
+14/09/2023,9469625,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+14/09/2023,9473315,74,Panamax,24666,2,Operating,10,Load,35,Urea
+14/09/2023,9493535,74,Panamax,24666,1,Waiting,10,Load,34,Sulphur
+14/09/2023,9587245,70,Capesize,24666,2,Operating,5,Discharge,5264,Manganese Ore
+14/09/2023,9591997,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+14/09/2023,9597056,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+14/09/2023,9636591,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+14/09/2023,9664873,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+14/09/2023,9696747,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+14/09/2023,9785354,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+14/09/2023,9820879,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+14/09/2023,9861225,74,Panamax,24666,1,Waiting,10,Load,41,Phosphate
+14/09/2023,9893515,74,Panamax,24666,1,Waiting,5,Discharge,5264,Manganese Ore
+14/09/2023,9898759,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+14/09/2023,9938793,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+15/09/2023,9303900,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+15/09/2023,9399557,74,Panamax,24666,1,Waiting,10,Load,35,Urea
+15/09/2023,9473315,74,Panamax,24666,2,Operating,10,Load,35,Urea
+15/09/2023,9493535,74,Panamax,24666,1,Waiting,10,Load,34,Sulphur
+15/09/2023,9587245,70,Capesize,24666,2,Operating,5,Discharge,5264,Manganese Ore
+15/09/2023,9590761,74,Panamax,24666,1,Waiting,5,Discharge,26,Corn
+15/09/2023,9591997,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+15/09/2023,9597056,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+15/09/2023,9636591,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+15/09/2023,9696747,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+15/09/2023,9785354,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+15/09/2023,9828326,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+15/09/2023,9861225,74,Panamax,24666,2,Operating,10,Load,41,Phosphate
+15/09/2023,9893515,74,Panamax,24666,2,Operating,5,Discharge,5264,Manganese Ore
+15/09/2023,9898759,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+15/09/2023,9927988,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+15/09/2023,9938793,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+16/09/2023,9300128,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+16/09/2023,9303900,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+16/09/2023,9399557,74,Panamax,24666,2,Operating,10,Load,35,Urea
+16/09/2023,9493535,74,Panamax,24666,1,Waiting,10,Load,34,Sulphur
+16/09/2023,9587245,70,Capesize,24666,2,Operating,5,Discharge,5264,Manganese Ore
+16/09/2023,9590761,74,Panamax,24666,1,Waiting,5,Discharge,26,Corn
+16/09/2023,9590840,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+16/09/2023,9591997,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+16/09/2023,9597056,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+16/09/2023,9696747,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+16/09/2023,9696759,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+16/09/2023,9785354,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+16/09/2023,9828326,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+16/09/2023,9861225,74,Panamax,24666,2,Operating,10,Load,41,Phosphate
+16/09/2023,9863431,74,Panamax,24666,1,Waiting,10,Load,NULL,NULL
+16/09/2023,9893515,74,Panamax,24666,2,Operating,5,Discharge,5264,Manganese Ore
+16/09/2023,9898759,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+16/09/2023,9927988,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+16/09/2023,9938793,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+17/09/2023,9185786,74,Panamax,24666,1,Waiting,10,Load,NULL,NULL
+17/09/2023,9300128,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+17/09/2023,9303900,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+17/09/2023,9304071,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+17/09/2023,9399557,74,Panamax,24666,2,Operating,10,Load,35,Urea
+17/09/2023,9493535,74,Panamax,24666,1,Waiting,10,Load,34,Sulphur
+17/09/2023,9587245,70,Capesize,24666,2,Operating,5,Discharge,5264,Manganese Ore
+17/09/2023,9590761,74,Panamax,24666,1,Waiting,5,Discharge,26,Corn
+17/09/2023,9590840,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+17/09/2023,9591997,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+17/09/2023,9597056,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+17/09/2023,9661871,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+17/09/2023,9696747,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+17/09/2023,9696759,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+17/09/2023,9785354,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+17/09/2023,9828326,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+17/09/2023,9861225,74,Panamax,24666,2,Operating,10,Load,41,Phosphate
+17/09/2023,9863431,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+17/09/2023,9927988,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+17/09/2023,9938793,74,Panamax,24666,NULL,NULL,12,Stop,NULL,NULL
+18/09/2023,9185786,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+18/09/2023,9303900,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+18/09/2023,9304071,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+18/09/2023,9399557,74,Panamax,24666,2,Operating,10,Load,35,Urea
+18/09/2023,9439046,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+18/09/2023,9493535,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+18/09/2023,9546980,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+18/09/2023,9590761,74,Panamax,24666,1,Waiting,5,Discharge,26,Corn
+18/09/2023,9591997,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+18/09/2023,9597056,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+18/09/2023,9639529,70,Capesize,24666,2,Operating,5,Discharge,5264,Manganese Ore
+18/09/2023,9661871,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+18/09/2023,9663752,74,Panamax,24666,1,Waiting,10,Load,NULL,NULL
+18/09/2023,9696759,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+18/09/2023,9785354,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+18/09/2023,9828326,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+18/09/2023,9861225,74,Panamax,24666,2,Operating,10,Load,41,Phosphate
+18/09/2023,9863431,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+18/09/2023,9938793,74,Panamax,24666,NULL,NULL,12,Stop,NULL,NULL
+19/09/2023,9185786,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+19/09/2023,9304071,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+19/09/2023,9399557,74,Panamax,24666,2,Operating,10,Load,35,Urea
+19/09/2023,9439046,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+19/09/2023,9493535,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+19/09/2023,9546980,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+19/09/2023,9590761,74,Panamax,24666,1,Waiting,5,Discharge,26,Corn
+19/09/2023,9591997,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+19/09/2023,9597056,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+19/09/2023,9639529,70,Capesize,24666,2,Operating,5,Discharge,5264,Manganese Ore
+19/09/2023,9661871,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+19/09/2023,9663752,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+19/09/2023,9696759,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+19/09/2023,9785354,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+19/09/2023,9828326,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+19/09/2023,9861225,74,Panamax,24666,2,Operating,10,Load,41,Phosphate
+19/09/2023,9863431,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+20/09/2023,9146015,74,Panamax,24666,2,Operating,10,Load,NULL,NULL
+20/09/2023,9185786,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+20/09/2023,9304071,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+20/09/2023,9399557,74,Panamax,24666,2,Operating,10,Load,35,Urea
+20/09/2023,9439046,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+20/09/2023,9493535,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+20/09/2023,9546980,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+20/09/2023,9590761,74,Panamax,24666,2,Operating,5,Discharge,26,Corn
+20/09/2023,9591997,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+20/09/2023,9595682,74,Panamax,24666,2,Operating,10,Load,NULL,NULL
+20/09/2023,9639529,70,Capesize,24666,2,Operating,5,Discharge,5264,Manganese Ore
+20/09/2023,9663752,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+20/09/2023,9785354,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+20/09/2023,9811048,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+20/09/2023,9828326,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+20/09/2023,9861225,74,Panamax,24666,2,Operating,10,Load,41,Phosphate
+20/09/2023,9863431,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+21/09/2023,9146015,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+21/09/2023,9304071,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+21/09/2023,9399557,74,Panamax,24666,2,Operating,10,Load,35,Urea
+21/09/2023,9439046,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+21/09/2023,9493535,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+21/09/2023,9497581,74,Panamax,24666,1,Waiting,10,Load,NULL,NULL
+21/09/2023,9546980,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+21/09/2023,9590761,74,Panamax,24666,2,Operating,5,Discharge,26,Corn
+21/09/2023,9591997,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+21/09/2023,9595682,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+21/09/2023,9639529,70,Capesize,24666,2,Operating,5,Discharge,5264,Manganese Ore
+21/09/2023,9660023,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+21/09/2023,9663752,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+21/09/2023,9785354,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+21/09/2023,9811048,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+21/09/2023,9828326,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+22/09/2023,9146015,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+22/09/2023,9218789,74,Panamax,24666,2,Operating,10,Load,25,Coke
+22/09/2023,9304071,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+22/09/2023,9398163,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+22/09/2023,9468188,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+22/09/2023,9493535,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+22/09/2023,9497581,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+22/09/2023,9546980,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+22/09/2023,9590761,74,Panamax,24666,2,Operating,5,Discharge,26,Corn
+22/09/2023,9591997,74,Panamax,24666,2,Operating,5,Discharge,NULL,NULL
+22/09/2023,9595682,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+22/09/2023,9637791,70,Capesize,24666,2,Operating,5,Discharge,5259,Iron Ore Lumps
+22/09/2023,9639529,70,Capesize,24666,2,Operating,5,Discharge,5264,Manganese Ore
+22/09/2023,9660023,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+22/09/2023,9811048,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+23/09/2023,9192416,74,Panamax,24666,1,Waiting,10,Load,NULL,NULL
+23/09/2023,9218789,74,Panamax,24666,2,Operating,10,Load,25,Coke
+23/09/2023,9304071,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+23/09/2023,9398163,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+23/09/2023,9468188,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+23/09/2023,9492206,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+23/09/2023,9493535,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+23/09/2023,9497581,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+23/09/2023,9590761,74,Panamax,24666,2,Operating,5,Discharge,26,Corn
+23/09/2023,9593763,74,Panamax,24666,2,Operating,5,Discharge,5264,Manganese Ore
+23/09/2023,9595682,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+23/09/2023,9637791,70,Capesize,24666,2,Operating,5,Discharge,5259,Iron Ore Lumps
+23/09/2023,9722417,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+23/09/2023,9811048,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+23/09/2023,9855226,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+23/09/2023,9880879,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+23/09/2023,9936783,74,Panamax,24666,2,Operating,5,Discharge,5264,Manganese Ore
+24/09/2023,9189093,74,Panamax,24666,1,Waiting,10,Load,NULL,NULL
+24/09/2023,9192416,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+24/09/2023,9218789,74,Panamax,24666,2,Operating,10,Load,25,Coke
+24/09/2023,9304071,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+24/09/2023,9398163,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+24/09/2023,9456692,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+24/09/2023,9468188,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+24/09/2023,9492206,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+24/09/2023,9493535,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+24/09/2023,9590761,74,Panamax,24666,2,Operating,5,Discharge,NULL,NULL
+24/09/2023,9593763,74,Panamax,24666,2,Operating,5,Discharge,5264,Manganese Ore
+24/09/2023,9595682,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+24/09/2023,9722417,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+24/09/2023,9811048,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+24/09/2023,9855226,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+24/09/2023,9855563,74,Panamax,24666,1,Waiting,5,Discharge,5264,Manganese Ore
+24/09/2023,9860881,74,Panamax,24666,1,Waiting,10,Load,5407,Steel Billets
+24/09/2023,9880879,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+24/09/2023,9936783,74,Panamax,24666,2,Operating,5,Discharge,5264,Manganese Ore
+25/09/2023,9189093,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+25/09/2023,9192416,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+25/09/2023,9304071,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+25/09/2023,9456692,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+25/09/2023,9468188,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+25/09/2023,9492206,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+25/09/2023,9593763,74,Panamax,24666,2,Operating,5,Discharge,NULL,NULL
+25/09/2023,9595682,74,Panamax,24666,2,Operating,10,Load,34,Sulphur
+25/09/2023,9722417,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+25/09/2023,9811048,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+25/09/2023,9855226,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+25/09/2023,9855563,74,Panamax,24666,2,Operating,5,Discharge,5264,Manganese Ore
+25/09/2023,9860881,74,Panamax,24666,1,Waiting,10,Load,5407,Steel Billets
+25/09/2023,9880879,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+25/09/2023,9936783,74,Panamax,24666,2,Operating,5,Discharge,5264,Manganese Ore
+26/09/2023,9189093,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+26/09/2023,9439072,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+26/09/2023,9442407,74,Panamax,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+26/09/2023,9456692,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+26/09/2023,9492206,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+26/09/2023,9593763,74,Panamax,24666,NULL,NULL,12,Stop,NULL,NULL
+26/09/2023,9855226,70,Capesize,24666,2,Operating,5,Discharge,NULL,NULL
+26/09/2023,9855563,74,Panamax,24666,2,Operating,5,Discharge,5264,Manganese Ore
+26/09/2023,9860881,74,Panamax,24666,1,Waiting,10,Load,5407,Steel Billets
+26/09/2023,9880879,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+27/09/2023,9086954,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+27/09/2023,9168489,74,Panamax,24666,1,Waiting,10,Load,NULL,NULL
+27/09/2023,9253985,74,Panamax,24666,1,Waiting,10,Load,NULL,NULL
+27/09/2023,9439072,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+27/09/2023,9442407,74,Panamax,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+27/09/2023,9446996,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+27/09/2023,9456692,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+27/09/2023,9492103,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+27/09/2023,9492206,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+27/09/2023,9593763,74,Panamax,24666,NULL,NULL,12,Stop,NULL,NULL
+27/09/2023,9855563,74,Panamax,24666,2,Operating,5,Discharge,5264,Manganese Ore
+27/09/2023,9860881,74,Panamax,24666,1,Waiting,10,Load,5407,Steel Billets
+27/09/2023,9880879,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+28/09/2023,9086954,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+28/09/2023,9168489,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+28/09/2023,9253985,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+28/09/2023,9439072,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+28/09/2023,9446996,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+28/09/2023,9455894,70,Capesize,24666,2,Operating,5,Discharge,34,Sulphur
+28/09/2023,9492103,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+28/09/2023,9593763,74,Panamax,24666,NULL,NULL,12,Stop,NULL,NULL
+28/09/2023,9691931,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+28/09/2023,9735191,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+28/09/2023,9860881,74,Panamax,24666,1,Waiting,10,Load,5407,Steel Billets
+28/09/2023,9880879,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+29/09/2023,9086954,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+29/09/2023,9168489,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+29/09/2023,9253985,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+29/09/2023,9374088,70,Capesize,24666,1,Waiting,5,Discharge,22,Bauxite
+29/09/2023,9439072,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+29/09/2023,9455894,70,Capesize,24666,2,Operating,5,Discharge,34,Sulphur
+29/09/2023,9492103,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+29/09/2023,9593763,74,Panamax,24666,NULL,NULL,12,Stop,NULL,NULL
+29/09/2023,9599092,74,Panamax,24666,2,Operating,5,Discharge,5264,Manganese Ore
+29/09/2023,9646845,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+29/09/2023,9691931,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+29/09/2023,9735191,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+29/09/2023,9860881,74,Panamax,24666,1,Waiting,10,Load,5407,Steel Billets
+30/09/2023,9123647,74,Panamax,24666,1,Waiting,10,Load,NULL,NULL
+30/09/2023,9159555,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+30/09/2023,9168489,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+30/09/2023,9253985,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+30/09/2023,9303900,74,Panamax,24666,1,Waiting,10,Load,NULL,NULL
+30/09/2023,9374088,70,Capesize,24666,2,Operating,5,Discharge,22,Bauxite
+30/09/2023,9435052,70,Capesize,24666,1,Waiting,5,Discharge,32,Salt
+30/09/2023,9439072,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+30/09/2023,9455894,70,Capesize,24666,2,Operating,5,Discharge,34,Sulphur
+30/09/2023,9563627,74,Panamax,24666,1,Waiting,5,Discharge,39,Soybeans
+30/09/2023,9599092,74,Panamax,24666,2,Operating,5,Discharge,5264,Manganese Ore
+30/09/2023,9646845,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+30/09/2023,9691931,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+30/09/2023,9735191,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+30/09/2023,9860881,74,Panamax,24666,1,Waiting,10,Load,5407,Steel Billets
+01/10/2023,9123647,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+01/10/2023,9159555,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+01/10/2023,9168489,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+01/10/2023,9253985,74,Panamax,24666,2,Operating,10,Load,5256,Thermal Coal
+01/10/2023,9284570,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+01/10/2023,9303900,74,Panamax,24666,1,Waiting,10,Load,5256,Thermal Coal
+01/10/2023,9374088,70,Capesize,24666,2,Operating,5,Discharge,22,Bauxite
+01/10/2023,9435052,70,Capesize,24666,1,Waiting,5,Discharge,32,Salt
+01/10/2023,9439072,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+01/10/2023,9455894,70,Capesize,24666,2,Operating,5,Discharge,34,Sulphur
+01/10/2023,9563627,74,Panamax,24666,2,Operating,5,Discharge,39,Soybeans
+01/10/2023,9599092,74,Panamax,24666,2,Operating,5,Discharge,5264,Manganese Ore
+01/10/2023,9646845,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+01/10/2023,9691931,70,Capesize,24666,2,Operating,5,Discharge,5258,Iron Ore Fines
+01/10/2023,9735191,70,Capesize,24666,1,Waiting,5,Discharge,5258,Iron Ore Fines
+01/10/2023,9860881,74,Panamax,24666,1,Waiting,10,Load,5407,Steel Billets
